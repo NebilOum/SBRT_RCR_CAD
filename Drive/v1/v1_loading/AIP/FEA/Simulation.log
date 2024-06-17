@@ -1,0 +1,61 @@
+﻿Study Static Analysis:1 started: 01/21/2023, 16:53:35
+Number of configurations: 1
+Default mesh: 860659 elements, 1324083 nodes
+A model separates into 9 independent components
+Soft spring was added
+Solution time 84.2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 01/21/2023, 16:57:31
+Total time 0:03:56
+
+Study Static Analysis:1 started: 01/21/2023, 17:01:31
+Number of configurations: 1
+Default mesh: 18791 elements, 34839 nodes
+A model separates into 2 independent components
+Solution time 1.9s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 01/21/2023, 17:01:40
+Total time 0:00:09
+
+Study Static Analysis:1 started: 01/21/2023, 17:02:36
+Number of configurations: 1
+Default mesh: 18791 elements, 34839 nodes
+A model separates into 2 independent components
+Solution time 2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 01/21/2023, 17:02:46
+Total time 0:00:10
+
+Study Static Analysis:1 started: 01/21/2023, 17:04:07
+Number of configurations: 1
+Default mesh: 18791 elements, 34839 nodes
+A model separates into 2 independent components
+Solution time 2s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 01/21/2023, 17:04:17
+Total time 0:00:10
+
+Study Static Analysis:1 started: 01/21/2023, 17:06:20
+Number of configurations: 1
+Default mesh: 32899 elements, 57179 nodes
+A model separates into 3 independent components
+Solution time 4.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 01/21/2023, 17:06:33
+Total time 0:00:13
+
+Study Static Analysis:1 started: 01/21/2023, 17:10:37
+Number of configurations: 1
+Default mesh: 32899 elements, 57179 nodes
+A model separates into 3 independent components
+Solution time 4.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 01/21/2023, 17:10:43
+Total time 0:00:06
+
